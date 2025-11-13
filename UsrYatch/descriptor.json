@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5cebe140-c6f5-48f5-be54-2ca80f8ae383",
+    "Name": "UsrYatch",
+    "Type": 1,
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrYatch.csproj",
+    "DependsOn": []
+  }
+}
