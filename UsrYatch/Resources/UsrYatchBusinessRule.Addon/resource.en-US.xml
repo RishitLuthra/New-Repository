@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.42bd5115-645f-f923-191b-ddc00c2331c0.Caption" Value="ChildRule-fe3f52ba-030d-22d6-5159-7476a2b21a92-ClearValue" />
+			<Item Name="AddonConfig.Rules.fc8d8979-5c64-19de-1807-26f599cd3fa6.Caption" Value="ChildRule-fe3f52ba-030d-22d6-5159-7476a2b21a92-PopulateValue" />
+			<Item Name="AddonConfig.Rules.fe3f52ba-030d-22d6-5159-7476a2b21a92.Caption" Value="Apply filter: City" />
+			<Item Name="Caption" Value="Yatch (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

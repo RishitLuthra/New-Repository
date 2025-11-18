@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "b98c41ce-9fb0-4b3d-9d56-9f42a2cf19db",
+    "Name": "UsrYatchBusinessRule",
+    "ModifiedOnUtc": "\/Date(1763487360000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Yatch (Business rules)",
+    "DependsOn": []
+  }
+}
