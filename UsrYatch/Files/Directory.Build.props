@@ -1,5 +1,12 @@
 <Project>
 	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/UsrYatch/Schemas/UsrManager/UsrManager.cs" Condition="Exists('$(PkgPath)/UsrYatch/Schemas/UsrManager/UsrManager.cs')" />
 		<Compile Include="$(PkgPath)/UsrYatch/Schemas/UsrTrafficLight/UsrTrafficLight.cs" Condition="Exists('$(PkgPath)/UsrYatch/Schemas/UsrTrafficLight/UsrTrafficLight.cs')" />
+		<Compile Include="$(PkgPath)/UsrYatch/Schemas/UsrVwContactAgeDays/UsrVwContactAgeDays.cs" Condition="Exists('$(PkgPath)/UsrYatch/Schemas/UsrVwContactAgeDays/UsrVwContactAgeDays.cs')" />
+		<Compile Include="$(PkgPath)/UsrYatch/Schemas/UsrYatch/UsrYatch.cs" Condition="Exists('$(PkgPath)/UsrYatch/Schemas/UsrYatch/UsrYatch.cs')" />
+		<Compile Include="$(PkgPath)/UsrYatch/Schemas/UsrYatchDriveType/UsrYatchDriveType.cs" Condition="Exists('$(PkgPath)/UsrYatch/Schemas/UsrYatchDriveType/UsrYatchDriveType.cs')" />
+		<Compile Include="$(PkgPath)/UsrYatch/Schemas/UsrYatchManager/UsrYatchManager.cs" Condition="Exists('$(PkgPath)/UsrYatch/Schemas/UsrYatchManager/UsrYatchManager.cs')" />
+		<Compile Include="$(PkgPath)/UsrYatch/Schemas/UsrYatchStatus/UsrYatchStatus.cs" Condition="Exists('$(PkgPath)/UsrYatch/Schemas/UsrYatchStatus/UsrYatchStatus.cs')" />
+		<Compile Include="$(PkgPath)/UsrYatch/Schemas/UsrYManager/UsrYManager.cs" Condition="Exists('$(PkgPath)/UsrYatch/Schemas/UsrYManager/UsrYManager.cs')" />
 	</ItemGroup>
 </Project>
