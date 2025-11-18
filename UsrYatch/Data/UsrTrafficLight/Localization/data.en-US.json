@@ -1,0 +1,76 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "2fc04aa0-d177-4459-a74a-d6faa9149243"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "2. Yellow"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "f3272122-0284-b312-dec7-298fad20c856",
+          "ColumnName": "UsrMyOwn",
+          "Value": "222"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "45ca7fea-f800-45bc-8f27-1af3aa171b88"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "1. Red"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "f3272122-0284-b312-dec7-298fad20c856",
+          "ColumnName": "UsrMyOwn",
+          "Value": "111"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "99832947-d9ff-4b5e-82f4-d755ed6da1c2"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "3. Green "
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "f3272122-0284-b312-dec7-298fad20c856",
+          "ColumnName": "UsrMyOwn",
+          "Value": "333"
+        }
+      ]
+    }
+  ]
+}
